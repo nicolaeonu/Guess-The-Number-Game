@@ -1,0 +1,10 @@
+nicolae/maven/util/thymeleaf/DecoupledLogicSetup.class
+nicolae/maven/util/ViewNames.class
+nicolae/maven/util/AttributeNames.class
+nicolae/maven/config/WebConfig.class
+nicolae/maven/interceptor/RequestInterceptor.class
+nicolae/maven/controller/GameController.class
+nicolae/maven/WebMain.class
+nicolae/maven/service/GameService.class
+nicolae/maven/util/GameMappings.class
+nicolae/maven/service/GameServiceImpl.class

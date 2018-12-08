@@ -1,0 +1,4 @@
+<thlogic>
+    <attr sel="#footerId" th:fragment="footerFragment"/>
+    <attr sel="#created-with-love-by" th:text="|#{game.createdWithLoveBy} Nicolae|"/>
+</thlogic>
